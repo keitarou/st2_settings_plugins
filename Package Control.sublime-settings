@@ -1,0 +1,28 @@
+{
+	"auto_upgrade_last_run": null,
+	"installed_packages":
+	[
+		"Backbone.js",
+		"CoffeeCompile",
+		"CoffeeScript",
+		"CSS Snippets",
+		"Emmet",
+		"Emmet Css Snippets",
+		"Haml",
+		"HTML5",
+		"Jade",
+		"Jade Snippets",
+		"JavaScript Snippets",
+		"jQuery",
+		"jQuery Mobile Snippets",
+		"MacTerminal",
+		"Package Control",
+		"Phix Color Scheme",
+		"Quick File Creator",
+		"QuickFileMove",
+		"Sublime Tweet",
+		"Tita - Titanium Mobile",
+		"Twitter Bootstrap ClassNames Completions",
+		"Twitter Bootstrap Snippets"
+	]
+}

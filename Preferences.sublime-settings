@@ -1,0 +1,10 @@
+{
+	"create_window_at_startup": false,
+	"draw_white_space": "all",
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"open_files_in_new_window": false,
+	"word_wrap": false
+}

@@ -1,0 +1,16 @@
+[
+	// カレント行削除（aptana風）
+	{ "keys": ["command+d"], "command": "run_macro_file", "args": {"file": "Packages/Default/Delete Line.sublime-macro"} },
+	// 単語選択
+	{ "keys": ["super+k"], "command": "find_under_expand" },
+	{ "keys": ["alt+down"], "command": "find_under_expand" },
+	{ "keys": ["alt+up"], "command": "find_under_expand" },
+	// 今日の日付挿入
+	// { "keys": ["alt+t"],   "command": "insert_today" },
+	// コメントブロック挿入
+	{ "keys": ["alt+c"],   "command": "comment_block" },
+	// 自分の名前を挿入
+	{ "keys": ["alt+n"],   "command": "insert_myname" },
+	// rails の　<%=  %> ←これ
+	{ "keys": ["alt+r"],   "command": "rails_print" }
+]
